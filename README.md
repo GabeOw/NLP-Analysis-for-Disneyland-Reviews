@@ -8,24 +8,24 @@
 
 - Topic modeling can be used in conjunction with other natural language processing techniques, such as sentiment analysis, to gain deeper insights into customer opinions and preferences. For example, Disney could use topic modeling to identify the main topics of discussion in customer reviews, and then use sentiment analysis to determine the overall sentiment (positive, negative, or neutral) associated with those topics. 
 
-Disney can use all of this information to prioritize areas for improvement in their products or services for each specific park location. 
+- Disney can use all of this information to prioritize areas for improvement in their products or services for each specific park location. 
 
 # Data Source:
 https://www.kaggle.com/datasets/arushchillar/disneyland-reviews
 
 # Results: 
-	Hong Kong:
+Hong Kong:
 - Park entrance is not well-designed (long waits)
 - Overpriced food and bad quality
 Small park and very few rides, compared to other Disney parks
 	
-	California:
+California:
 - Overpriced food
 - Extremely expensive overall
 - A lot of rides are closed (for whatever reason)
 - Huge crowds with long wait times
  
-	Paris:
+Paris:
 - Long wait times, rides closed, extremely expensive
 - Slow and inefficient service
 - Run-down, not well-maintained, dirty
