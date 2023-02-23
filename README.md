@@ -17,12 +17,12 @@ https://www.kaggle.com/datasets/arushchillar/disneyland-reviews
 Hong Kong:
 - Park entrance is not well-designed (long waits)
 - Overpriced food and bad quality
-Small park and very few rides, compared to other Disney parks
+- Small park and very few rides (compared to other Disney parks)
 	
 California:
 - Overpriced food
 - Extremely expensive overall
-- A lot of rides are closed (for whatever reason)
+- A lot of rides are closed (for unknown reasons)
 - Huge crowds with long wait times
  
 Paris:
@@ -30,6 +30,6 @@ Paris:
 - Slow and inefficient service
 - Run-down, not well-maintained, dirty
 - A lot of people smoking
-- Food is expensive, low quality, and not much variety
+- Food is expensive, low quality, and there is not much variety
 - Staff provides slow service and lacks energy (comes across as not caring)
-- Few Disney characters walking around the park
+- Few Disney characters walk around the park
